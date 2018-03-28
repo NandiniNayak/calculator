@@ -13,3 +13,11 @@ end
 
 result = subtract(4,4)
 puts "difference of two number is #{result}"
+
+def divide(num1,num2)
+  divide = num1 / num2
+  return divide
+end
+
+result = divide(4,4)
+puts "difference of two number is #{result}"
