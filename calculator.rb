@@ -6,7 +6,7 @@ end
 result = sum(4,4)
 puts "sum of two number is #{result}"
 
-def subtract(num1,num2)
+def product(num1,num2)
   diff = num1 - num2
   return diff
 end
